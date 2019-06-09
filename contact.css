@@ -1,0 +1,36 @@
+/*#mwademo{
+}*/
+#navigation {
+   background-color: #2a2744;
+   color:white;
+  }
+  ul{
+    list-style: none;
+    margin: 0;
+    padding: 14px;
+    overflow: hidden;
+    color: white;
+  }
+  li{
+    float: left;
+
+  }
+  li a{
+    display: block;
+    color: antiquewhite;
+    text-align: right;
+    padding :14px 16px;
+    text-decoration: none;
+  }
+  #mwademo{
+    box-sizing: content-box;
+    width:500px;
+    height: 300px;
+    border: solid;
+    float: right;
+  }
+  #patson{
+    text-align: justify;
+    line-height: 1.5;
+  }
+ 
