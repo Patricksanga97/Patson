@@ -1,0 +1,78 @@
+.cform{
+    margin-top: 150px;
+    text-align: center;
+    box-shadow: 8px 8px 8px rgba(194, 191, 191, 0.5);
+}
+.reg{
+	margin-top: 150px;
+    text-align: left;
+}
+.top{
+    margin:0;
+    padding:0;
+    color: rgb(241, 239, 239);
+    display:inline-block;
+    text-align: center;
+	overflow: hidden;
+	height: 70px;
+	position: relative;
+	top: 0;
+	width: 100%;
+	background-color:orange;
+	box-shadow: -3px 3px 4px rgba(3,3,3,0.3);
+	overflow: hidden;
+	border: none;
+	z-index: 4;
+}
+.heading{
+	float: left;
+	padding: 0px 100px;
+}
+.nav{
+	float: right;
+	padding: 0px 100px;
+	color: aliceblue;
+	margin-top: 20px;
+	background-color:orange;
+}
+.nav a{
+	float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.nav a:hover{
+	background-color: #403f3d;
+}
+#inputbox{
+    position: relative;
+    color: rgb(0, 0, 0);
+
+
+    
+}
+input[type=text],
+input[type=password],
+input[type=email]
+{
+	width: 100%;
+	padding: 5px;
+	padding-top: 3px;
+	margin-top: 4px;
+	border: none;
+	/*background: transparent;*/
+	border-bottom: 4px solid rgb(0, 0, 0);
+	margin-bottom: 5px;
+	color: black;
+    text-align: center;
+}
+.col-md-3-mb-2{
+	margin: 1.5rem;
+	box-shadow: 3px 3px 4px rgba(3,3,3,0.3);
+}
+.appointment2{
+	display: none;
+	
+}
